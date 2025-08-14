@@ -1,6 +1,6 @@
-<!-- # Utkarsh Bhardwaj & Associates - Professional Website
+<!-- # Utkarsh BHARADWAJ & Associates - Professional Website
 
-A modern, responsive, and SEO-optimized website for Utkarsh Bhardwaj & Associates, a professional tax and accounting services firm.
+A modern, responsive, and SEO-optimized website for Utkarsh BHARADWAJ & Associates, a professional tax and accounting services firm.
 
 ## 🚀 Features
 
@@ -46,7 +46,7 @@ A modern, responsive, and SEO-optimized website for Utkarsh Bhardwaj & Associate
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd utkarsh-bhardwaj-associates
+cd utkarsh-BHARADWAJ-associates
 ```
 
 2. Install dependencies:
@@ -182,4 +182,4 @@ For support or questions, please contact:
 
 ---
 
-Built with ❤️ for Utkarsh Bhardwaj & Associates -->
+Built with ❤️ for Utkarsh BHARADWAJ & Associates -->

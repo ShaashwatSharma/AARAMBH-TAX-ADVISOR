@@ -59,7 +59,7 @@ const Footer = () => {
               <div>
                 <h3 className="font-playfair font-bold text-lg lg:text-xxl">AARAMBH TAX ADVISOR</h3>
                 <p className="text-gray-400 text-xs lg:text-sm tracking-wider leading-tight">
-                  LEAD BY ADVOCATE UTKARSH BHARDWAJ
+                  LEAD BY ADVOCATE UTKARSH BHARADWAJ
                 </p>
               </div>
             </div>

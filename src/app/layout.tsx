@@ -24,14 +24,14 @@ const explora = Explora({
 
 export const metadata: Metadata = {
   title:
-    "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj - Professional Tax & Accounting Services",
+    "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ - Professional Tax & Accounting Services",
   description:
     "Expert tax consultancy, IT audit, GST returns, income tax returns, TDS returns, bookkeeping, and business accounting services. Professional tax solutions for all your business needs.",
   keywords:
-    "tax consultancy, GST returns, income tax returns, TDS returns, bookkeeping, accounting services, IT audit, professional tax, EPF ESIC returns, TAN registration, Advocate Utkarsh Bhardwaj",
-  authors: [{ name: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj" }],
-  creator: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj",
-  publisher: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj",
+    "tax consultancy, GST returns, income tax returns, TDS returns, bookkeeping, accounting services, IT audit, professional tax, EPF ESIC returns, TAN registration, Advocate Utkarsh BHARADWAJ",
+  authors: [{ name: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ" }],
+  creator: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ",
+  publisher: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ",
   formatDetection: {
     email: false,
     address: false,
@@ -43,18 +43,18 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title:
-      "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj - Professional Tax & Accounting Services",
+      "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ - Professional Tax & Accounting Services",
     description:
       "Expert tax consultancy, IT audit, GST returns, income tax returns, TDS returns, bookkeeping, and business accounting services.",
     url: "https://arambhtaxadvisor.com",
-    siteName: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj",
+    siteName: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ",
     locale: "en_IN",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     title:
-      "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj - Professional Tax & Accounting Services",
+      "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ - Professional Tax & Accounting Services",
     description:
       "Expert tax consultancy, IT audit, GST returns, income tax returns, TDS returns, bookkeeping, and business accounting services.",
   },
@@ -132,12 +132,12 @@ export default function RootLayout({
 // const explora = Explora({ subsets: ["latin"], weight: "400" });
 
 // export const metadata: Metadata = {
-//   title: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj - Professional Tax & Accounting Services",
+//   title: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ - Professional Tax & Accounting Services",
 //   description: "Expert tax consultancy, IT audit, GST returns, income tax returns, TDS returns, bookkeeping, and business accounting services. Professional tax solutions for all your business needs.",
-//   keywords: "tax consultancy, GST returns, income tax returns, TDS returns, bookkeeping, accounting services, IT audit, professional tax, EPF ESIC returns, TAN registration, Advocate Utkarsh Bhardwaj",
-//   authors: [{ name: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj" }],
-//   creator: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj",
-//   publisher: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj",
+//   keywords: "tax consultancy, GST returns, income tax returns, TDS returns, bookkeeping, accounting services, IT audit, professional tax, EPF ESIC returns, TAN registration, Advocate Utkarsh BHARADWAJ",
+//   authors: [{ name: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ" }],
+//   creator: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ",
+//   publisher: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ",
 //   formatDetection: {
 //     email: false,
 //     address: false,
@@ -148,16 +148,16 @@ export default function RootLayout({
 //     canonical: '/',
 //   },
 //   openGraph: {
-//     title: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj - Professional Tax & Accounting Services",
+//     title: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ - Professional Tax & Accounting Services",
 //     description: "Expert tax consultancy, IT audit, GST returns, income tax returns, TDS returns, bookkeeping, and business accounting services.",
 //     url: 'https://arambhtaxadvisor.com',
-//     siteName: 'Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj',
+//     siteName: 'Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ',
 //     locale: 'en_IN',
 //     type: 'website',
 //   },
 //   twitter: {
 //     card: 'summary_large_image',
-//     title: "Aarambh Tax Advisor lead by Advocate Utkarsh Bhardwaj - Professional Tax & Accounting Services",
+//     title: "Aarambh Tax Advisor lead by Advocate Utkarsh BHARADWAJ - Professional Tax & Accounting Services",
 //     description: "Expert tax consultancy, IT audit, GST returns, income tax returns, TDS returns, bookkeeping, and business accounting services.",
 //   },
 //   robots: {

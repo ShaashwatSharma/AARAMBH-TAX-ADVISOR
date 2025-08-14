@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/',
     },
-    sitemap: 'https://utkarshbhardwajassociates.com/sitemap.xml',
+    sitemap: 'https://aarambhtaxadvisor.com/sitemap.xml',
   }
 } 
