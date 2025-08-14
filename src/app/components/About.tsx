@@ -111,7 +111,7 @@ const About = () => {
               
               <p className="text-lg text-gray-600 leading-relaxed mb-6">
                 AARAMBH TAX ADVISOR led by Advocate UTKARSH BHARADWAJ is a leading professional services firm specializing in 
-                comprehensive tax and accounting solutions. With over 2 years of experience, we have 
+                comprehensive tax and accounting solutions. With over 8 years of experience, we have 
                 helped hundreds of businesses navigate complex tax regulations and achieve financial success.
               </p>
               

@@ -65,7 +65,7 @@ const Footer = () => {
             </div>
             
             <p className="text-gray-300 leading-relaxed">
-              Professional tax and accounting services with over 2 years of experience. 
+              Professional tax and accounting services with over 8 years of experience. 
               We help businesses navigate complex tax regulations and achieve financial success.
             </p>
 

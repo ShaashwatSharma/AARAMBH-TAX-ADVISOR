@@ -26,7 +26,7 @@ const Stats = () => {
       bgColor: "bg-green-100"
     },
     {
-      number: "2+",
+      number: "8+",
       label: "Years of Experience",
       icon: TrendingUp,
       color: "text-green-600",
