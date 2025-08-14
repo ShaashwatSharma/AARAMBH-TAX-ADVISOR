@@ -1,0 +1,30 @@
+{
+  "name": "Utkarsh Bhardwaj & Associates - Professional Tax & Accounting Services",
+  "short_name": "Utkarsh Bhardwaj & Associates",
+  "description": "Expert tax consultancy, IT audit, GST returns, income tax returns, TDS returns, bookkeeping, and business accounting services.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "finance", "professional"],
+  "lang": "en",
+  "dir": "ltr"
+} 
