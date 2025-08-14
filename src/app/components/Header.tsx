@@ -54,7 +54,7 @@ const Header = () => {
                   AARAMBH TAX ADVISOR
                 </h1>
                 <p className="text-xs lg:text-sm font-medium text-blue-600 -mt-1 tracking-wider leading-tight">
-                  LEAD BY ADVOCATE UTKARSH BHARADWAJ
+                  LED BY ADVOCATE UTKARSH BHARADWAJ
                 </p>
               </div>
             </motion.div>
