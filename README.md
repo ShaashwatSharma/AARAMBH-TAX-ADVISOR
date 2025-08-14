@@ -1,4 +1,4 @@
-# Utkarsh Bhardwaj & Associates - Professional Website
+<!-- # Utkarsh Bhardwaj & Associates - Professional Website
 
 A modern, responsive, and SEO-optimized website for Utkarsh Bhardwaj & Associates, a professional tax and accounting services firm.
 
@@ -179,9 +179,7 @@ This project is proprietary and confidential. All rights reserved.
 ## 🤝 Support
 
 For support or questions, please contact:
-- Email: advutkarshbharadwaj@gmail.com
-- Phone: +91 9258011110
 
 ---
 
-Built with ❤️ for Utkarsh Bhardwaj & Associates
+Built with ❤️ for Utkarsh Bhardwaj & Associates -->
