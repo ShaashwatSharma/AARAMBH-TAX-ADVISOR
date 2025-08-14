@@ -37,21 +37,21 @@ SENDGRID_API_KEY=your_api_key
 ## 📧 Current Status
 
 **Right now**: The form shows a success message but doesn't actually send emails
-**After setup**: You'll receive real emails at `advutkarshbharadwaj@gmail.com`
+**After setup**: You'll receive real emails at 
 
 ## 🔧 How to Test
 
 1. Fill out the contact form on your website
 2. Submit the form
-3. Check your email at `advutkarshbharadwaj@gmail.com`
+3. Check your email at 
 4. You should receive an email with the form details
 
 ## 📱 Alternative Contact Methods
 
 Until email is set up, clients can contact you via:
-- **Phone**: +91 9258011110
-- **Email**: advutkarshbharadwaj@gmail.com
-- **WhatsApp**: +91 9258011110
+- **Phone**: 
+- **Email**: 
+- **WhatsApp**: 
 
 ## 🎯 Next Steps
 
