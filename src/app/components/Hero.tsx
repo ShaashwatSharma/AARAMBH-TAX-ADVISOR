@@ -173,7 +173,7 @@ const Hero = () => {
                   color: "bg-orange-500",
                   delay: 0.4
                 }
-              ].map((service, index) => (
+              ].map((service,) => (
                 <motion.div
                   key={service.title}
                   variants={itemVariants}

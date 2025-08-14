@@ -9,8 +9,8 @@ import {
   Users, 
   CheckCircle,
   Star,
-  TrendingUp,
-  FileText
+  // TrendingUp,
+  // FileText
 } from 'lucide-react';
 
 const About = () => {
@@ -170,7 +170,7 @@ const About = () => {
           >
             {/* Values Grid */}
             <motion.div variants={itemVariants} className="grid grid-cols-2 gap-6">
-              {values.map((value, index) => (
+              {values.map((value) => (
                 <motion.div
                   key={value.title}
                   variants={itemVariants}

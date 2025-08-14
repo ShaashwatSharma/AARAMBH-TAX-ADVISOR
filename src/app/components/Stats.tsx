@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { Users, FileText, Award, Clock, TrendingUp } from 'lucide-react';
+import { Users, FileText, Clock, TrendingUp } from 'lucide-react';
 
 const Stats = () => {
   const [ref, inView] = useInView({
@@ -115,7 +115,7 @@ const Stats = () => {
             Trusted by Businesses Across India
           </h3>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            We've helped hundreds of businesses navigate complex tax regulations and maintain compliance. 
+            We&apos;ve helped hundreds of businesses navigate complex tax regulations and maintain compliance. 
             Our expertise spans across various industries and business sizes.
           </p>
         </motion.div>

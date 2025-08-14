@@ -105,7 +105,7 @@ const Testimonials = () => {
             <span className="gradient-text block">Clients Say</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Don't just take our word for it. Here's what our valued clients have to say about 
+            Don&apos;t just take our word for it. Here&apos;s what our valued clients have to say about 
             their experience working with AARAMBH TAX ADVISOR.
           </p>
         </motion.div>
@@ -138,7 +138,7 @@ const Testimonials = () => {
 
               {/* Testimonial Content */}
               <p className="text-xs sm:text-sm lg:text-base text-gray-700 leading-relaxed mb-4 sm:mb-6 italic">
-                "{testimonial.content}"
+                &quot;{testimonial.content}&quot;
               </p>
 
               {/* Client Info */}

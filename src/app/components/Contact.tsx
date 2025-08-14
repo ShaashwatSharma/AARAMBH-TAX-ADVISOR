@@ -4,10 +4,10 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { 
-  Phone, 
-  Mail, 
-  MapPin, 
-  Clock, 
+  // Phone, 
+  // Mail, 
+  // MapPin, 
+  // Clock, 
   Send,
   CheckCircle,
   AlertCircle
@@ -84,40 +84,40 @@ const Contact = () => {
     }
   };
 
-  const contactInfo = [
-    {
-      icon: Phone,
-      title: "Phone",
-      value: "+91 9258011110",
-      link: "tel:+919258011110",
-      color: "text-blue-600",
-      bgColor: "bg-blue-100"
-    },
-    {
-      icon: Mail,
-      title: "Email",
-      value: "advutkarshbharadwaj@gmail.com",
-      link: "mailto:advutkarshbharadwaj@gmail.com",
-      color: "text-green-600",
-      bgColor: "bg-green-100"
-    },
-    {
-      icon: MapPin,
-      title: "Service Area",
-      value: "Pan India",
-      link: "#",
-      color: "text-purple-600",
-      bgColor: "bg-purple-100"
-    },
-    {
-      icon: Clock,
-      title: "Business Hours",
-      value: "Mon - Sat: 9:00 AM - 7:00 PM",
-      link: "#",
-      color: "text-orange-600",
-      bgColor: "bg-orange-100"
-    }
-  ];
+  // const contactInfo = [
+  //   {
+  //     icon: Phone,
+  //     title: "Phone",
+  //     value: "+91 9258011110",
+  //     link: "tel:+919258011110",
+  //     color: "text-blue-600",
+  //     bgColor: "bg-blue-100"
+  //   },
+  //   {
+  //     icon: Mail,
+  //     title: "Email",
+  //     value: "advutkarshbharadwaj@gmail.com",
+  //     link: "mailto:advutkarshbharadwaj@gmail.com",
+  //     color: "text-green-600",
+  //     bgColor: "bg-green-100"
+  //   },
+  //   {
+  //     icon: MapPin,
+  //     title: "Service Area",
+  //     value: "Pan India",
+  //     link: "#",
+  //     color: "text-purple-600",
+  //     bgColor: "bg-purple-100"
+  //   },
+  //   {
+  //     icon: Clock,
+  //     title: "Business Hours",
+  //     value: "Mon - Sat: 9:00 AM - 7:00 PM",
+  //     link: "#",
+  //     color: "text-orange-600",
+  //     bgColor: "bg-orange-100"
+  //   }
+  // ];
 
   const services = [
     "TAN Registration",
@@ -320,7 +320,7 @@ const Contact = () => {
                     className="flex items-center space-x-2 text-green-600 bg-green-50 p-4 rounded-lg"
                   >
                     <CheckCircle className="w-5 h-5" />
-                    <span>Thank you! Your message has been sent successfully. We'll get back to you within 24 hours.</span>
+                    <span>Thank you! Your message has been sent successfully. We&apos;ll get back to you within 24 hours.</span>
                   </motion.div>
                 )}
 
